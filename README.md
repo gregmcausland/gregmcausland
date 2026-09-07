@@ -1,4 +1,4 @@
-I'm Greg, a senior front-end engineer in Scotland. I enjoy building useful software, working out how it should behave and sharing ideas with other developers.
+I'm Greg, a senior software engineer in Scotland. I enjoy building useful software, working out how it should behave and sharing ideas with other developers.
 
 At [Schematify](https://schematify.com/), I lead the visual and interaction design and build the WebGL renderer, graph editors and agent tooling. Most of my professional work lives in private repositories. The projects here give a view of my interests and experiments.
 
