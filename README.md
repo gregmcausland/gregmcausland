@@ -1,16 +1,14 @@
-## Hi there 👋
+I'm Greg, a senior front-end engineer in Scotland. I enjoy building useful software, working out how it should behave and sharing ideas with other developers.
 
-<!--
-**gregmcausland/gregmcausland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At [Schematify](https://schematify.com/), I lead the visual and interaction design and build the WebGL renderer, graph editors and agent tooling. Most of my professional work lives in private repositories. The projects here give a view of my interests and experiments.
 
-Here are some ideas to get you started:
+### Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Schematify skills](https://github.com/schematify/skills): agent tooling for generating and publishing interactive graphs from TypeScript.
+- [Herdr Control](https://github.com/gregmcausland/herdr-control): an early prototype for supervising coding agents from a browser, on desktop or phone.
+- [blitui](https://github.com/gregmcausland/blitui): a TypeScript terminal rendering core built to avoid flicker.
+- [Agent skills](https://github.com/gregmcausland/agent-skills): a public home for reusable skills, starting with a structured pseudocode approach.
+
+I'm currently exploring agentic development workflows, alongside projects in Godot and Blender. I like experimenting with new tools and understanding where they need careful direction.
+
+[LinkedIn](https://www.linkedin.com/in/grmcausland/)
